@@ -1,0 +1,9 @@
+Building Ticocoin
+
+See doc/readme-qt.rst for instructions on building Ticocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ticocoin.
+
+See doc/build-*.txt for instructions on building ticocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ticocoin.

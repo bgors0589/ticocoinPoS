@@ -1,0 +1,11 @@
+[Protocol]
+exec=ticocoin-qt '%u'
+protocol=ticocoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

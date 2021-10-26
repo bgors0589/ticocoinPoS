@@ -1,0 +1,11 @@
+usr/local/bin/ticocoin-qt usr/bin
+share/pixmaps/ticocoin16.png usr/share/pixmaps
+share/pixmaps/ticocoin32.png usr/share/pixmaps
+share/pixmaps/ticocoin128.png usr/share/pixmaps
+share/pixmaps/ticocoin256.png usr/share/pixmaps
+share/pixmaps/ticocoin-testnet32.png usr/share/pixmaps
+share/pixmaps/ticocoin-testnet128.png usr/share/pixmaps
+share/pixmaps/ticocoin-testnet256.png usr/share/pixmaps
+debian/ticocoin-qt.desktop usr/share/applications
+debian/ticocoin-testnet-qt.desktop usr/share/applications
+debian/ticocoin-qt.protocol usr/share/kde4/services/
